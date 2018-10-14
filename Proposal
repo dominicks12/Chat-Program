@@ -1,0 +1,25 @@
+Project: A chat room
+Members: Dominic Amaral (Not yet in a group)
+
+Problem: Some friends want to be able to communicate with each other on their computers without having to download some third party\n
+software in order to do it. They want to be able to chat to each other through private and group conversations. Being able to voice \n
+chat would also be a plus, as well as being able to send pictures/videos to each other.
+
+Solution: Develop a chat room program in python that allows users across multiple devices to communicate with each other. Will \n
+provide ability for both private one on one conversations as well as group conversations. Also include the ability for a voice chat.\n
+Multimedia support to be included. Other features (emojis, etc…) to be included if time permits. 
+
+Responsibilities(as of now): Dominic (server, client, GUI)
+
+Action Plan: 
+	Give each major component of the program (server script, client script, GUI) an equal amount of time to develop while leaving \n
+  time towards the end for any bug fixes and adjustments. Start with developing the server script, then the client script. \n
+  Implement the GUI and integrate with the server and client scripts. If development takes less time than expected, then use \n
+  this time to implement additional features to create a better user experience.
+
+Timeline: 
+Total Time: ~7 weeks
+Server: ~2 weeks
+Client: ~2 weeks
+Gui: ~2 weeks
+Bug fixes/Final adjustments: ~1 week
